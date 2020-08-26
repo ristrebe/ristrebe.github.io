@@ -1,3 +1,4 @@
 permalink: /:categories/:year/:month/:title/
+theme: jekyll-theme-minimal
 title: Portfolio of Dr. Rita Strebe
 description: code samples from data science projects
