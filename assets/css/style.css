@@ -424,6 +424,11 @@ section {
   transition: .9s;
   background-color: #149ddd;
 }
+.skills .content h3 {
+  font-weight: 700;
+  font-size: 26px;
+  color: #173b6c;
+}
 
 /*--------------------------------------------------------------
 # Resume
